@@ -1,6 +1,6 @@
 import java.io.*;
 
-class GFG
+class GFGf
 {
 
 // Function to find majority element
